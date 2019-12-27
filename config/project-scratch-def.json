@@ -1,0 +1,13 @@
+{
+  "orgName": "Enterprise Company",
+  "edition": "Enterprise",
+  "features": [
+    "Communities",
+    "Sites"
+  ],
+  "settings": {
+    "communitiesSettings": {
+        "enableNetworksEnabled": true
+    }
+  }
+}

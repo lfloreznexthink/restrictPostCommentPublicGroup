@@ -1,0 +1,15 @@
+<aura:component implements="force:hasRecordId,forceCommunity:availableForAllPageTypes" access="global" controller="communityGroupDetail">
+    <aura:attribute name="isPartOfGroup" type="Boolean" default="false"/>
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+    <div>
+        <aura:if isTrue="{!v.isPartOfGroup}">
+            <forceChatter:publisher recordId="{!v.recordId}" context="RECORD" />
+            <aura:set attribute="else">
+                <p>
+                    Please join this group to be able to participate.
+                </p>
+            </aura:set>
+        </aura:if>
+    </div>
+</aura:component>

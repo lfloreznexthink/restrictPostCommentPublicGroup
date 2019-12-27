@@ -1,0 +1,359 @@
+[
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1577405779583,
+            "changeTime": 1577405779583,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1577405779583,
+            "changeTime": 1577405779583,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1577406961963,
+            "changeTime": 1577406961963,
+            "contentHash": "3410132f3f143e79b8e28713e2f860aa1311975d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1577465263148,
+            "changeTime": 1577465263148,
+            "contentHash": "5bca303936be1dd06c868a978cfb0d747646731f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1577469573616,
+            "changeTime": 1577469573616,
+            "contentHash": "2ae9c2a0118f05889da7ca5159d5d5546046f966",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/classes/feedCommentTrigger_Test.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/classes/feedCommentTrigger_Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5946,
+            "modifiedTime": 1577474619204,
+            "changeTime": 1577474619204,
+            "isWorkspace": false,
+            "contentHash": "4a8966555eb8aa9e5fb1e0f68cef5f47ae53e6b2"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/classes/feedCommentTrigger_Test.cls-meta.xml",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/classes/feedCommentTrigger_Test.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1576700703430,
+            "changeTime": 1577406962165,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1577405835199,
+            "changeTime": 1577405835199,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1577464679605,
+            "changeTime": 1577464679605,
+            "contentHash": "9c73f3b23e1f1d21443118453bc2e306ab5394ea",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/triggers/feedCommentTrigger.trigger",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/triggers/feedCommentTrigger.trigger",
+            "isDirectory": false,
+            "size": 933,
+            "modifiedTime": 1577465159178,
+            "changeTime": 1577465159178,
+            "contentHash": "5024bba9d41aa31f73a8818ed57d5e7be0bedebc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/triggers/feedCommentTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/triggers/feedCommentTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 173,
+            "modifiedTime": 1576695519738,
+            "changeTime": 1577406919628,
+            "contentHash": "4d3d4255ff651ee3c2f98122eeabe9f52020cb9e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1577405833624,
+            "changeTime": 1577405833624,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/triggers/feedPostTrigger.trigger",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/triggers/feedPostTrigger.trigger",
+            "isDirectory": false,
+            "size": 511,
+            "modifiedTime": 1577465090300,
+            "changeTime": 1577465090300,
+            "contentHash": "fe2af4641c21dd7548c7eaafb046b8637f4f9440",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/triggers/feedPostTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/triggers/feedPostTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 173,
+            "modifiedTime": 1577464679605,
+            "changeTime": 1577464679605,
+            "contentHash": "4d3d4255ff651ee3c2f98122eeabe9f52020cb9e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1576097475505,
+            "changeTime": 1577465263173,
+            "contentHash": "d2e2ebb0f7a93092eb128214111c1c02330ca9aa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.auradoc",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1576078848507,
+            "changeTime": 1577465263170,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.cmp",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.cmp",
+            "isDirectory": false,
+            "size": 641,
+            "modifiedTime": 1576700271397,
+            "changeTime": 1577465263168,
+            "contentHash": "cda35edfdc19c5f9e1a0743335c623bacebc20c8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1576078848506,
+            "changeTime": 1577465263172,
+            "contentHash": "424027deabb738d5b64aa2e2ccb076bc229a985c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.css",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.css",
+            "isDirectory": false,
+            "size": 9,
+            "modifiedTime": 1576097475502,
+            "changeTime": 1577465263167,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.design",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1576078848508,
+            "changeTime": 1577465263169,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.svg",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisher.svg",
+            "isDirectory": false,
+            "size": 664,
+            "modifiedTime": 1576078848508,
+            "changeTime": 1577465263168,
+            "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisherController.js",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisherController.js",
+            "isDirectory": false,
+            "size": 475,
+            "modifiedTime": 1576176682051,
+            "changeTime": 1577465263167,
+            "contentHash": "60ae4980aa038b6187ff95e47819b1bfb3b41b82",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisherHelper.js",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisherHelper.js",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1576097475502,
+            "changeTime": 1577465263171,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisherRenderer.js",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/aura/communityGroupPublisher/communityGroupPublisherRenderer.js",
+            "isDirectory": false,
+            "size": 49,
+            "modifiedTime": 1576097475503,
+            "changeTime": 1577465263173,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/classes/communityGroupDetail.cls",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/classes/communityGroupDetail.cls",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1577470560544,
+            "changeTime": 1577470560544,
+            "contentHash": "24218c7185a657e0325673c7f9b1f356ea9cc74a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/classes/communityGroupDetail.cls-meta.xml",
+        {
+            "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/classes/communityGroupDetail.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1576079110776,
+            "changeTime": 1577469573620,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]
