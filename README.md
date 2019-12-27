@@ -1,9 +1,3 @@
-# Salesforce App
 
-## Dev, Build and Test
+Triggers to prevent the interaction to a public group if the user hasn't joined
 
-## Resources
-
-## Description of Files and Directories
-
-## Issues
