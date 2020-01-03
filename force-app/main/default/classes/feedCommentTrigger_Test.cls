@@ -1,10 +1,10 @@
 @isTest
 public class feedCommentTrigger_Test {
 
-    @isTest
+    @IsTest(SeeAllData=true)
     static void testData()
     {
-        String communityId = Network.getNetworkId();
+        String communityId = [SELECT Id FROM Network LIMIT 1].Id;
         //Create an account
         Account a = new Account(Name='Test account', BillingCountry='France');
         insert a;
@@ -44,7 +44,7 @@ public class feedCommentTrigger_Test {
     {
         feedCommentTrigger_Test.testData();
         
-        String communityId = Network.getNetworkId();
+        String communityId = [SELECT Id FROM Network LIMIT 1].Id;
         User u = [SELECT Id FROM User WHERE Username='test0@test.com.invalid' LIMIT 1];
         CollaborationGroup g = [SELECT Id FROM CollaborationGroup WHERE Name = 'Test0' LIMIT 1];
         String errorMessage = '';
@@ -67,7 +67,7 @@ public class feedCommentTrigger_Test {
     {
         feedCommentTrigger_Test.testData();
 
-        String communityId = Network.getNetworkId();
+        String communityId = [SELECT Id FROM Network LIMIT 1].Id;
         User u = [SELECT Id FROM User WHERE Username='test0@test.com.invalid' LIMIT 1];
         CollaborationGroup g = [SELECT Id FROM CollaborationGroup WHERE Name = 'Test0' LIMIT 1];
         
@@ -95,7 +95,7 @@ public class feedCommentTrigger_Test {
     {
         feedCommentTrigger_Test.testData();
 
-        String communityId = Network.getNetworkId();
+        String communityId = [SELECT Id FROM Network LIMIT 1].Id;
         User u = [SELECT Id FROM User WHERE Username='test0@test.com.invalid' LIMIT 1];
         CollaborationGroup g = [SELECT Id FROM CollaborationGroup WHERE Name = 'Test0' LIMIT 1];
         CollaborationGroupFeed postGroup = [SELECT Id FROM CollaborationGroupFeed WHERE ParentId = :g.Id LIMIT 1];
@@ -121,7 +121,7 @@ public class feedCommentTrigger_Test {
     {
         feedCommentTrigger_Test.testData();
 
-        Id communityId = Network.getNetworkId();
+        Id communityId = [SELECT Id FROM Network LIMIT 1].Id;
         User u = [SELECT Id FROM User WHERE Username='test0@test.com.invalid' LIMIT 1];
         CollaborationGroup g = [SELECT Id FROM CollaborationGroup WHERE Name = 'Test0' LIMIT 1];
         CollaborationGroupFeed postGroup = [SELECT Id FROM CollaborationGroupFeed WHERE ParentId = :g.Id LIMIT 1];

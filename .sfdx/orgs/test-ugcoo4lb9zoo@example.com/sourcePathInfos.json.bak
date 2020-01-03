@@ -79,11 +79,11 @@
             "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup/force-app/main/default/classes/feedCommentTrigger_Test.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 5946,
-            "modifiedTime": 1577474619204,
-            "changeTime": 1577474619204,
+            "size": 6150,
+            "modifiedTime": 1577744567094,
+            "changeTime": 1577744567094,
             "isWorkspace": false,
-            "contentHash": "4a8966555eb8aa9e5fb1e0f68cef5f47ae53e6b2"
+            "contentHash": "5f576948545b2f841b05be302c50a0e0b7c4afa8"
         }
     ],
     [
@@ -162,16 +162,15 @@
     [
         "/Users/luisflorez/Documents/community/memberToParticipateGroup",
         {
+            "state": "u",
             "sourcePath": "/Users/luisflorez/Documents/community/memberToParticipateGroup",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1577405833624,
-            "changeTime": 1577405833624,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 320,
+            "modifiedTime": 1577476861910,
+            "changeTime": 1577476861910,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0"
         }
     ],
     [
