@@ -5,6 +5,14 @@ trigger feedPostTrigger on FeedItem (before insert) {
     {
         return;
     }
+
+    //Check that the ParentId is a group from Communities
+    List<CollaborationGroup> groupTargeted = [SELECT Id FROM CollaborationGroup WHERE Id = :groupId AND NetworkId <> ''];
+    if(groupTargeted.size() == 0)
+    {
+        return;
+    }
+
     List<CollaborationGroupMember> groupMembers = [SELECT Id, MemberId, CollaborationGroupId FROM CollaborationGroupMember WHERE MemberId = :userId AND CollaborationGroupId = :groupId];
     if(groupMembers.size() == 0)
     {
